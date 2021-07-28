@@ -2,6 +2,11 @@
 
 IOT Project, CLI Application
 
+### TODO 
+* Add terminal colors
+* Refactor argparser
+* Add project setup and usage
+
 ### Available cmds ###
 ```
 --version  display current version of app
@@ -47,8 +52,3 @@ python .\arg_parser.py --interpret_data ../out/response.json
 
 * Configuration
 * Dependencies
-
-
-### Who do I talk to? ###
-
-* Tudor-Vasile Serban-Moga | Marius Ionut Jula
