@@ -1,0 +1,198 @@
+{
+    "0022FF0000021F11": {
+        "0022FF0000021F11": {
+            "channels": [
+                {
+                    "AttrID": " 1",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 5",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '%'",
+                    "unit": " 'percent'",
+                    "withStatus": " 1"
+                },
+                {
+                    "AttrID": " 1",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 6",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '%'",
+                    "unit": " 'percent'",
+                    "withStatus": " 1"
+                },
+                {
+                    "AttrID": " 1",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 7",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '\u00c2\u00b0C'",
+                    "unit": " 'degree Celsius'",
+                    "withStatus": " 1"
+                }
+            ],
+            "key": "0022:FF00:0002:1F11"
+        },
+        "concentrator": {
+            "CO_ID": " 3",
+            "CO_TSAP_ID": "2",
+            "Data_Period": " 10",
+            "Data_Phase": " 0",
+            "Data_StaleLimit": " 5",
+            "Data_version": " 61",
+            "all_attributes": [
+                "2",
+                " 3",
+                " 10",
+                " 0",
+                " 5",
+                " 61",
+                " 1"
+            ],
+            "interfaceType": " 1"
+        }
+    },
+    "1020000000000061": {
+        "1020000000000061": {
+            "channels": [
+                {
+                    "AttrID": " 5",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '\u00c2\u00b0C'",
+                    "unit": " 'degree Celsius'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 6",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " 'Reserved'",
+                    "unit": " 'Manufacturer Specific'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 7",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " 'Reserved'",
+                    "unit": " 'Manufacturer Specific'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 8",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " 'Reserved'",
+                    "unit": " 'Manufacturer Specific'",
+                    "withStatus": " 0"
+                }
+            ],
+            "key": "1020:0000:0000:0061"
+        },
+        "concentrator": {
+            "CO_ID": " 4",
+            "CO_TSAP_ID": "2",
+            "Data_Period": " 15",
+            "Data_Phase": " 0",
+            "Data_StaleLimit": " 5",
+            "Data_version": " 16",
+            "all_attributes": [
+                "2",
+                " 4",
+                " 15",
+                " 0",
+                " 5",
+                " 16",
+                " 2"
+            ],
+            "interfaceType": " 2"
+        }
+    },
+    "1060000000000061": {
+        "1060000000000061": {
+            "channels": [
+                {
+                    "AttrID": " 5",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '\u00c2\u00b0C'",
+                    "unit": " 'degree Celsius'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 6",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " '%'",
+                    "unit": " 'percent'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 7",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " 'Reserved'",
+                    "unit": " 'Manufacturer Specific'",
+                    "withStatus": " 0"
+                },
+                {
+                    "AttrID": " 8",
+                    "Index1": " 0",
+                    "Index2": " 0",
+                    "ObjID": " 129",
+                    "TSAP_ID": "2",
+                    "format": " 'float'",
+                    "name": " 'Reserved'",
+                    "unit": " 'Manufacturer Specific'",
+                    "withStatus": " 0"
+                }
+            ],
+            "key": "1060:0000:0000:0061"
+        },
+        "concentrator": {
+            "CO_ID": " 4",
+            "CO_TSAP_ID": "2",
+            "Data_Period": " 60",
+            "Data_Phase": " 0",
+            "Data_StaleLimit": " 5",
+            "Data_version": " 16",
+            "all_attributes": [
+                "2",
+                " 4",
+                " 60",
+                " 0",
+                " 5",
+                " 16",
+                " 2"
+            ],
+            "interfaceType": " 2"
+        }
+    }
+}

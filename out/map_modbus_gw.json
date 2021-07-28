@@ -1,0 +1,30 @@
+{
+    "INPUT_REGISTERS": {
+        "registers": [
+            {
+                "AttrId": "5",
+                "EUI64": "1020000000000061",
+                "Idx1": "0",
+                "Idx2": "0",
+                "MethId": "0",
+                "ObjId": "129",
+                "TSAPID": "2",
+                "start_addr": "10",
+                "status": "2",
+                "word_cnt": "3"
+            },
+            {
+                "AttrId": "1",
+                "EUI64": "0022FF0000021F11",
+                "Idx1": "0",
+                "Idx2": "0",
+                "MethId": "0",
+                "ObjId": "7",
+                "TSAPID": "2",
+                "start_addr": "13",
+                "status": "2",
+                "word_cnt": "3"
+            }
+        ]
+    }
+}
